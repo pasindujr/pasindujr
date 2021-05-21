@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **frontend development.**
 
-- 👨‍💻 All of my projects are available at [https://pasindujr.me/projects](https://pasindujr.me/projects)
+- 👨‍💻 All of my projects are available at [my personal site](https://pasindujr.me/projects)
 
-- 📝 I regularly write articles on [https://pasindujr.me/blog](https://pasindujr.me/blog)
+- 📝 I regularly write articles on [my blog](https://pasindujr.me/blog)
 
 - 📫 How to reach me **pasindujayanada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pasindujr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pasindujr" height="30" width="40" /></a>
-<a href="https://fb.com/pasindujr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="pasindujr" height="30" width="40" /></a>
-<a href="https://instagram.com/pasindujr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="pasindujr" height="30" width="40" /></a>
+<a href="https://twitter.com/pasindujr" target="blank"><img align="center" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />" alt="pasindujr" height="30" width="40" /></a>
+<a href="https://fb.com/pasindujr" target="blank"><img align="center" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />" alt="pasindujr" height="30" width="40" /></a>
+<a href="https://instagram.com/pasindujr" target="blank"><img align="center" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />" alt="pasindujr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
