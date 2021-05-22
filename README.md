@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujr&theme=dark" alt="pasindujr" /></p>
 
-[![Spotify](https://github-now-playing-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/pasindujr)
+[<img src="https://github-now-playing-lyart.vercel.app/api/spotify" />](https://open.spotify.com/user/pasindujr)
