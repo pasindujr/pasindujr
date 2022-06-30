@@ -1,7 +1,7 @@
 <h1 align="center">ආයුබෝවන්! வணக்கம்! Welcome!</h1>
 <h3 align="center">Hi 👋, I'm Pasindu Ruwandeniya, a passionate programmer and student from Sri Lanka 🇱🇰</h3>
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Laravel.**
 
 - 👨‍💻 All of my projects are available at [pasindujr.me](https://pasindujr.me/projects)
 
