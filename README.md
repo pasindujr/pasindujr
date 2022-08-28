@@ -27,3 +27,5 @@
 
 ### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
+![](https://komarev.com/ghpvc/?username=pasindujr&color=grey)
