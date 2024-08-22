@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Laravel.**
 
-- 👨‍💻 All of my projects are available at [pasindujr.me](https://pasindujr.me/projects)
+- 👨‍💻 All of my projects are available at [pasindujr.dev](https://pasindujr.dev/projects)
 
-- 📝 I regularly write articles on [pasindujr.me](https://pasindujr.me/blog)
+- 📝 I regularly write articles on [pasindujr.dev](https://pasindujr.dev/blog)
 
 - 🐧 Learning all about Open Source.
 
